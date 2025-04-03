@@ -1,4 +1,4 @@
-																								Kali Linux Tools Installation for Ubuntu
+Kali Linux Tools Installation for Ubuntu
 This project provides an easy way to download and install Kali Linux tools on your Ubuntu system. Kali Linux is a powerful distribution focused on penetration testing, security research, and ethical hacking. By using this script, you can seamlessly install a collection of Kali Linux tools without needing to switch distributions.
 
 Features
